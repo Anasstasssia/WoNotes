@@ -28,13 +28,21 @@
 
 <table>
   <tr>
-    <td><img width="230" height="215" alt="image" src="https://github.com/user-attachments/assets/2df6426b-d375-4e9d-9ad2-7144c74881aa" /></td>
-    <td><img width="230" height="215" alt="image" src="https://github.com/user-attachments/assets/423bb6f8-faa7-4e7d-aaba-3282be5a92ef" /></td>
-    <td><img width="230" height="215" alt="image" src="https://github.com/user-attachments/assets/dffb2b1c-3be7-498e-bdae-9f236dc56441" /></tr>
+    <td><img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/2df6426b-d375-4e9d-9ad2-7144c74881aa" /></td>
+    <td><img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/423bb6f8-faa7-4e7d-aaba-3282be5a92ef" /></td>
+    <td><img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/dffb2b1c-3be7-498e-bdae-9f236dc56441" /></tr>
   </tr>
 </table>
 
+Календарь менструации - Прогноз фертильного окна - Страница статистики
 
+<table>
+  <tr>
+    <td><img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/7cac29b3-e099-4908-84c0-2265b4b26162" /></td>
+    <td><img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/48e09361-9203-412f-9c32-66e53caae928" /></td>
+    <td><img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/23708f8b-7f93-44e8-b7b0-69b8534c82c5" /></tr>
+  </tr>
+</table>
 ---
 
 ## Установка на Android
