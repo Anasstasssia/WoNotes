@@ -24,9 +24,14 @@
 ---
 
 ## Скрины
-Главный экран 
-<img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/2df6426b-d375-4e9d-9ad2-7144c74881aa" />
-<img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/423bb6f8-faa7-4e7d-aaba-3282be5a92ef" />
+Главный экран - Экран заметок
+
+<table>
+  <tr>
+    <td><img width="115" height="256" alt="image" src="https://github.com/user-attachments/assets/2df6426b-d375-4e9d-9ad2-7144c74881aa" /></td>
+    <td><img width="115" height="256" alt="image" src="https://github.com/user-attachments/assets/423bb6f8-faa7-4e7d-aaba-3282be5a92ef" /></td>
+  </tr>
+</table>
 
 
 ---
