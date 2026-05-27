@@ -24,12 +24,13 @@
 ---
 
 ## Скрины
-Главный экран - Экран заметок
+Главный экран - Экран всех заметок - Написание заметки 
 
 <table>
   <tr>
-    <td><img width="115" height="256" alt="image" src="https://github.com/user-attachments/assets/2df6426b-d375-4e9d-9ad2-7144c74881aa" /></td>
-    <td><img width="115" height="256" alt="image" src="https://github.com/user-attachments/assets/423bb6f8-faa7-4e7d-aaba-3282be5a92ef" /></td>
+    <td><img width="230" height="215" alt="image" src="https://github.com/user-attachments/assets/2df6426b-d375-4e9d-9ad2-7144c74881aa" /></td>
+    <td><img width="230" height="215" alt="image" src="https://github.com/user-attachments/assets/423bb6f8-faa7-4e7d-aaba-3282be5a92ef" /></td>
+    <td><img width="230" height="215" alt="image" src="https://github.com/user-attachments/assets/dffb2b1c-3be7-498e-bdae-9f236dc56441" /></tr>
   </tr>
 </table>
 
